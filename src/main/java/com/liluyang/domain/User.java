@@ -1,4 +1,4 @@
-package cn.liluyang.domain;
+package com.liluyang.domain;
 
 public class User {
 	private Integer id;

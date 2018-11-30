@@ -1,4 +1,4 @@
-package cn.liluyang;
+package com.liluyang;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

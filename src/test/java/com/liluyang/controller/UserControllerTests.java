@@ -1,4 +1,4 @@
-package cn.liluyang.controller;
+package com.liluyang.controller;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
